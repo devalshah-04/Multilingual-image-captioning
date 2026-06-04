@@ -1,0 +1,112 @@
+[
+  {
+    "timestamp": "13:31:47",
+    "date": "2026-04-15",
+    "caption": "A boat sitting on top of a sandy beach.",
+    "confidence": 0.8547071208081871,
+    "alternatives": [
+      "A boat sitting on a beach next to the ocean.",
+      "A canoe sitting on top of a sandy beach.",
+      "A small wooden boat rests on a sandy beach."
+    ],
+    "category": "Nature",
+    "image_path": "C:\\Users\\Deval\\Downloads\\DL mini project\\caption_history\\Nature\\20260415_133147.jpg",
+    "translations": {
+      "🇬🇧 English": "A boat sitting on top of a sandy beach.",
+      "🇫🇷 French": "Un bateau assis sur une plage de sable fin.",
+      "🇪🇸 Spanish": "Un barco sentado encima de una playa de arena.",
+      "🇮🇳 Hindi": "एक नाव किनारे के किनारे पर बैठी थी ।"
+    }
+  },
+  {
+    "timestamp": "09:04:02",
+    "date": "2026-04-15",
+    "caption": "a close up of a butterfly on a flower.",
+    "confidence": 0.9116748204393328,
+    "alternatives": [
+      "A butterfly with black and white wings is on a purple flower.",
+      "A butterfly is eating nectar from a purple flower.",
+      "a close up of a butterfly on a purple flower."
+    ],
+    "category": "Insect",
+    "image_path": "C:\\Users\\Deval\\Downloads\\DL mini project\\caption_history\\Insect\\20260415_090402.jpg",
+    "translations": {
+      "🇬🇧 English": "a close up of a butterfly on a flower.",
+      "🇫🇷 French": "un proche d'un papillon sur une fleur.",
+      "🇪🇸 Spanish": "un primer plano de una mariposa en una flor.",
+      "🇮🇳 Hindi": "एक फूल पर एक तितली की करीबी से ऊपर."
+    }
+  },
+  {
+    "timestamp": "08:58:19",
+    "date": "2026-04-15",
+    "caption": "A squirrel standing on a rock eating food.",
+    "confidence": 0.8658461536959974,
+    "alternatives": [
+      "A squirrel eating nuts on a cement slab.",
+      "a squirrel sitting on a rock eating something.",
+      "A squirrel stands on a rock with his food."
+    ],
+    "category": "Food",
+    "image_path": "C:\\Users\\Deval\\Downloads\\DL mini project\\caption_history\\Food\\20260415_085819.jpg",
+    "translations": {
+      "🇬🇧 English": "A squirrel standing on a rock eating food.",
+      "🇫🇷 French": "Un écureuil debout sur un rocher mangeant de la nourriture.",
+      "🇪🇸 Spanish": "Una ardilla de pie en una roca comiendo comida.",
+      "🇮🇳 Hindi": "एक गिली चट्टान पर भोजन करती है ।"
+    }
+  },
+  {
+    "timestamp": "00:17:36",
+    "date": "2026-04-15",
+    "caption": "A squirrel eating a nut on a rock.",
+    "confidence": 0.9482007798022838,
+    "alternatives": [
+      "A squirrel eating nuts on top of a rock.",
+      "A squirrel is sitting up on a rock eating.",
+      "A squirrel eating food on a rock  outside."
+    ],
+    "category": "Animal",
+    "image_path": "C:\\Users\\Deval\\Downloads\\DL mini project\\caption_history\\Animal\\20260415_001736.jpg"
+  },
+  {
+    "timestamp": "15:48:10",
+    "date": "2026-04-08",
+    "caption": "A man sitting in front of a laptop computer.",
+    "confidence": 0.9250260690972751,
+    "alternatives": [
+      "A man sitting at a table next to a laptop computer.",
+      "A man sitting behind a laptop near a window.",
+      "A man sitting at a table with a laptop computer."
+    ],
+    "category": "Technology",
+    "image_path": "C:\\Users\\Admin\\Desktop\\DL mini project\\caption_history\\Technology\\20260408_154810.jpg"
+  },
+  {
+    "timestamp": "15:46:25",
+    "date": "2026-04-08",
+    "caption": "A man standing in a room with a backpack.",
+    "confidence": 0.9256007755777851,
+    "alternatives": [
+      "A man smiles as he stands in a classroom.",
+      "A person standing in a room in front of a table.",
+      "A smiling man with glasses and a backpack."
+    ],
+    "category": "Indoor",
+    "image_path": "C:\\Users\\Admin\\Desktop\\DL mini project\\caption_history\\Indoor\\20260408_154625.jpg"
+  },
+  {
+    "timestamp": "15:43:05",
+    "date": "2026-04-08",
+    "caption": "A butterfly sitting on top of a orange flower.",
+    "confidence": 0.9224751930523641,
+    "alternatives": [
+      "A butterfly resting on an orange flower with green leaves.",
+      "A close up of a butterfly on a flower.",
+      "A butterfly that is sitting on top of a flower."
+    ],
+    "category": "Insect",
+    "image_path": "C:\\Users\\Admin\\Desktop\\DL mini project\\caption_history\\Insect\\20260408_154305.jpg"
+  },
+  {}
+]

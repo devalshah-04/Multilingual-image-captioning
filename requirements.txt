@@ -1,0 +1,12 @@
+torch
+transformers>=4.41.0
+peft>=0.11.0
+accelerate>=0.30.0
+streamlit>=1.35.0
+Pillow
+requests
+numpy
+matplotlib
+scipy
+torchvision
+sentencepiece
