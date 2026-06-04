@@ -12,7 +12,7 @@ A deep learning pipeline that generates natural language captions for any image 
 |---|---|
 | 🚀 Live App | [deval-multilingual-image-captioning.streamlit.app](https://deval-multilingual-image-captioning.streamlit.app/) |
 | ☁️ AWS API Gateway | `https://6lnxnivdxf.execute-api.ap-south-1.amazonaws.com/prod/caption` *(hosted, currently inactive)* |
-| 🤗 BLIP-2 LoRA Adapter | [Parthg0106/DL-mini](https://huggingface.co/Parthg0106/DL-mini) |
+| 🤗 BLIP-2 LoRA Adapter | [devalshah04/blip2-coco-multilingual-image-captioning](https://huggingface.co/devalshah04/blip2-coco-multilingual-image-captioning) |
 
 ---
 
