@@ -9,7 +9,7 @@ import spaces
 
 # ── Load model at startup ──
 BASE_MODEL = "Salesforce/blip2-opt-6.7b"
-ADAPTER_REPO = "Parthg0106/DL-mini"
+ADAPTER_REPO = "devalshah04/blip2-coco-multilingual-image-captioning"
 
 print("Loading processor...")
 processor = Blip2Processor.from_pretrained(ADAPTER_REPO)
